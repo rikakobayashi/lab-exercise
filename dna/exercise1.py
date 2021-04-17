@@ -6,4 +6,4 @@ def reverse_complement(seq):
     "C": "G"
   })
 
-  return seq.translate(table)
+  return str.upper(seq).translate(table)
