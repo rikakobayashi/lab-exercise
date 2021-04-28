@@ -31,7 +31,7 @@ def dna_to_amino_acid(dna_seq):
         'gca': 'A', 'gcc': 'A', 'gcg': 'A', 'gct': 'A',
         'gga': 'G', 'ggc': 'G', 'ggg': 'G', 'ggt': 'G',
         'gta': 'V', 'gtc': 'V', 'gtg': 'V', 'gtt': 'V',
-        'taa': 'A', 'tac': 'Y', 'tag': '*', 'tat': 'Y',
+        'taa': '*', 'tac': 'Y', 'tag': '*', 'tat': 'Y',
         'tca': 'S', 'tcc': 'S', 'tcg': 'S', 'tct': 'S',
         'tga': '*', 'tgc': 'C', 'tgg': 'W', 'tgt': 'C',
         'tta': 'L', 'ttc': 'F', 'ttg': 'L', 'ttt': 'F'
@@ -47,4 +47,4 @@ def dna_to_amino_acid(dna_seq):
     return amino_acid_seq
 
 
-print(amino_acid_in_genbank("sequence.gb"))
+# print(amino_acid_in_genbank("sequence.gb"))
