@@ -1,0 +1,97 @@
+LOCUS       HQ541704                1701 bp    cRNA    linear   VRL 21-MAR-2013
+DEFINITION  Influenza A virus (A/swine/Yunnan/74/2010(H1N1)) segment 4
+            hemagglutinin (HA) gene, complete cds.
+ACCESSION   HQ541704
+VERSION     HQ541704.1
+DBLINK      BioProject: PRJNA37813
+KEYWORDS    .
+SOURCE      Influenza A virus (A/swine/Yunnan/74/2010(H1N1))
+  ORGANISM  Influenza A virus (A/swine/Yunnan/74/2010(H1N1))
+            Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+            Polyploviricotina; Insthoviricetes; Articulavirales;
+            Orthomyxoviridae; Alphainfluenzavirus.
+REFERENCE   1  (bases 1 to 1701)
+  AUTHORS   Chen,Y., Zhang,J., Qiao,C., Yang,H., Zhang,Y., Xin,X. and Chen,H.
+  TITLE     Co-circulation of pandemic 2009 H1N1, classical swine H1N1 and
+            avian-like swine H1N1 influenza viruses in pigs in China
+  JOURNAL   Infect. Genet. Evol. 13, 331-338 (2013)
+   PUBMED   23146831
+REFERENCE   2  (bases 1 to 1701)
+  AUTHORS   Zhang,J., Chen,Y., Yang,H., Xin,X., Chen,H. and Qiao,C.
+  TITLE     Emergence of pandemic A/H1N1 2009 influenza viruses in pigs in
+            China
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 1701)
+  AUTHORS   Zhang,J., Chen,Y. and Yang,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-NOV-2010) National Key Laboratory of Veterinary
+            Biotechnology and Animal Influenza Laboratory of the Ministry of
+            Agriculture, Harbin Veterinary Research Institute of Chinese
+            Academy of Agriculture Sciences, 427 Maduan Street, Nangang
+            District, Harbin, Heilongjiang 150001, P.R. China
+COMMENT     GenBank Accession Numbers HQ541704-HQ541711 represent sequences
+            from the 8 segments of Influenza A virus
+            (A/swine/Yunnan/74/2010(H1N1)).
+FEATURES             Location/Qualifiers
+     source          1..1701
+                     /organism="Influenza A virus
+                     (A/swine/Yunnan/74/2010(H1N1))"
+                     /mol_type="viral cRNA"
+                     /strain="A/swine/Yunnan/74/2009"
+                     /serotype="H1N1"
+                     /host="swine"
+                     /db_xref="taxon:915017"
+                     /segment="4"
+                     /country="China"
+                     /collection_date="Jan-2010"
+                     /note="lineage: swl"
+     gene            1..1701
+                     /gene="HA"
+     CDS             1..1701
+                     /gene="HA"
+                     /codon_start=1
+                     /product="hemagglutinin"
+                     /protein_id="ADU02152.1"
+                     /translation="MKAILVVLLYTFATANADTLCIGYHANNSTDTVDTVLEKNVTVT
+                     HSVNLLEDKHNGKLCKLRGVAPLHLGKCNIAGWILGNPECESLSTASSWSYIVETSSS
+                     DNGTCYPGDFIDYEELREQLSSVSSFERFEIFPKTSSWPNHDPNKGVTAACPHAGAKS
+                     FYKNLIWLVKKGNSYPKLSKSYINDKGKEVLVLWGIHHPSTSADQQSLYQNADAYVFV
+                     GTSRYSKKFKPEIAIRPKVRDREGRMNYYWTLVEPGDKITFEATGNLVVPRYAFAMER
+                     NAGSGIIISDTPVHDCNTTCQTPKGAINTSLPFQNIHPITIGKCPKYVKSTKLRLATG
+                     LRNVPSIQSRGLCGAIAGFIEGGWTGMVDGWYGYHHQNEQGSGYAADLKSTQNAIDEI
+                     TNKVNSVIEKMNTQFTAVGKEFNHLEKRIENLNKKVDDGFLDIWTYNAELLVLLENER
+                     TLDYHDSNVKNLYEKVRSQLKNNAKEIGNGCFEFYHKCDNTCMESVKNGTYDYPKYSE
+                     EAKLNREEIDGVKLESTRIYQILAIYSTVASSLVLVVSLGAISFWMCSNGSLQCRICI
+                     "
+ORIGIN      
+        1 atgaaggcaa tactagtagt tctgctatat acatttgcaa ccgcaaatgc agacacatta
+       61 tgtataggtt atcatgcgaa caattcaaca gacactgtag acacagtact agaaaagaat
+      121 gtaacagtaa cacactctgt taaccttcta gaagacaagc ataacgggaa actatgcaaa
+      181 ctaagagggg tagccccatt gcatttgggt aaatgtaaca ttgctggctg gatcctggga
+      241 aatccagagt gtgaatcact ctccacagca agctcatggt cctacattgt ggaaacatct
+      301 agttcagaca atggaacgtg ttacccagga gatttcatcg attatgagga gctaagagag
+      361 caattgagct cagtgtcatc atttgaaagg tttgagatat tccccaagac aagttcatgg
+      421 cccaatcatg acccgaacaa aggtgtaacg gcagcatgtc ctcatgctgg agcaaaaagc
+      481 ttctacaaaa atttaatatg gctagttaaa aaaggaaatt catacccaaa gctcagcaaa
+      541 tcctacatta atgataaagg gaaagaagtc ctcgtgctat ggggcattca ccatccatct
+      601 actagtgctg accaacaaag tctctatcag aatgcagatg catatgtttt tgtggggaca
+      661 tcaagataca gcaagaagtt caagccagaa atagcaataa gacccaaagt gagggatcga
+      721 gaagggagaa tgaactatta ctggacacta gtagagccgg gagacaaaat aacattcgaa
+      781 gcaactggaa atctagtggt accgagatat gcattcgcaa tggaaagaaa tgctggatct
+      841 ggtattatca tttcagatac accagtccac gattgcaata caacttgtca gacacccaag
+      901 ggtgctataa acaccagcct cccatttcag aatatacatc cgatcacaat tggaaaatgt
+      961 ccaaaatatg taaaaagcac aaaattgaga ctggccacag gattgaggaa tgtcccgtct
+     1021 attcaatcta gaggcctatg tggggccatt gccggtttca ttgaaggggg gtggacaggg
+     1081 atggtagatg gatggtacgg ttatcaccat caaaatgagc aggggtcagg atatgcagcc
+     1141 gacctgaaga gcacacagaa tgccattgac gagattacta acaaagtaaa ttctgttatt
+     1201 gaaaagatga atacacagtt cacagcagta ggtaaagagt tcaaccacct ggaaaaaaga
+     1261 atagagaatt taaataaaaa agttgatgat ggtttcctgg acatttggac ttacaatgcc
+     1321 gaactgttgg ttctattgga aaatgaaaga actttggact accacgattc aaatgtgaag
+     1381 aacttatatg aaaaggtaag aagccagtta aaaaacaatg ccaaggaaat tggaaacggc
+     1441 tgctttgaat tttaccacaa atgcgataac acgtgtatgg aaagtgtcaa aaatgggact
+     1501 tatgactacc caaaatactc agaggaagca aaattaaaca gagaagaaat agatggggta
+     1561 aagctggaat caacaaggat ttaccagatt ttggcgatct attcaactgt cgccagttca
+     1621 ttggtactgg tagtctccct gggggcaatc agtttctgga tgtgctctaa tgggtctcta
+     1681 cagtgtagaa tatgtattta a
+//
+
