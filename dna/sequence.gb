@@ -1,0 +1,114 @@
+LOCUS       NM_001005484             918 bp    mRNA    linear   PRI 21-JUN-2020
+DEFINITION  Homo sapiens olfactory receptor family 4 subfamily F member 5
+            (OR4F5), mRNA.
+ACCESSION   NM_001005484 XM_001123390
+VERSION     NM_001005484.1
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 918)
+  AUTHORS   Gaudet P, Livstone MS, Lewis SE and Thomas PD.
+  TITLE     Phylogenetic-based propagation of functional annotations within the
+            Gene Ontology consortium
+  JOURNAL   Brief. Bioinformatics 12 (5), 449-462 (2011)
+   PUBMED   21873635
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AB065592.1.
+            [WARNING] On Aug 4, 2020 this sequence was replaced by
+            NM_001005484.2.
+            On Sep 20, 2006 this sequence version replaced XM_001123390.1.
+            
+            Summary: Olfactory receptors interact with odorant molecules in the
+            nose, to initiate a neuronal response that triggers the perception
+            of a smell. The olfactory receptor proteins are members of a large
+            family of G-protein-coupled receptors (GPCR) arising from single
+            coding-exon genes. Olfactory receptors share a 7-transmembrane
+            domain structure with many neurotransmitter and hormone receptors
+            and are responsible for the recognition and G protein-mediated
+            transduction of odorant signals. The olfactory receptor gene family
+            is the largest in the genome. The nomenclature assigned to the
+            olfactory receptor genes and proteins for this organism is
+            independent of other organisms. [provided by RefSeq, Jul 2008].
+            
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+FEATURES             Location/Qualifiers
+     source          1..918
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1"
+                     /map="1p36.33"
+     gene            1..918
+                     /gene="OR4F5"
+                     /note="olfactory receptor family 4 subfamily F member 5"
+                     /db_xref="GeneID:79501"
+                     /db_xref="HGNC:HGNC:14825"
+     CDS             1..918
+                     /gene="OR4F5"
+                     /codon_start=1
+                     /product="olfactory receptor 4F5"
+                     /protein_id="NP_001005484.1"
+                     /db_xref="CCDS:CCDS30547.1"
+                     /db_xref="GeneID:79501"
+                     /db_xref="HGNC:HGNC:14825"
+                     /translation="MVTEFIFLGLSDSQELQTFLFMLFFVFYGGIVFGNLLIVITVVS
+                     DSHLHSPMYFLLANLSLIDLSLSSVTAPKMITDFFSQRKVISFKGCLVQIFLLHFFGG
+                     SEMVILIAMGFDRYIAICKPLHYTTIMCGNACVGIMAVTWGIGFLHSVSQLAFAVHLL
+                     FCGPNEVDSFYCDLPRVIKLACTDTYRLDIMVIANSGVLTVCSFVLLIISYTIILMTI
+                     QHRPLDKSSKALSTLTAHITVVLLFFGPCVFIYAWPFPIKSLDKFLAVFYSVITPLLN
+                     PIIYTLRNKDMKTAIRQLRKWDAHSSVKF"
+     misc_feature    55..126
+                     /gene="OR4F5"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8NH21.1);
+                     transmembrane region"
+     misc_feature    151..216
+                     /gene="OR4F5"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8NH21.1);
+                     transmembrane region"
+     misc_feature    280..339
+                     /gene="OR4F5"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8NH21.1);
+                     transmembrane region"
+     misc_feature    397..453
+                     /gene="OR4F5"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8NH21.1);
+                     transmembrane region"
+     misc_feature    565..636
+                     /gene="OR4F5"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8NH21.1);
+                     transmembrane region"
+     misc_feature    685..753
+                     /gene="OR4F5"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8NH21.1);
+                     transmembrane region"
+     misc_feature    787..846
+                     /gene="OR4F5"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8NH21.1);
+                     transmembrane region"
+     exon            1..918
+                     /gene="OR4F5"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 atggtgactg aattcatttt tctgggtctc tctgattctc aggaactcca gaccttccta
+       61 tttatgttgt tttttgtatt ctatggagga atcgtgtttg gaaaccttct tattgtcata
+      121 acagtggtat ctgactccca ccttcactct cccatgtact tcctgctagc caacctctca
+      181 ctcattgatc tgtctctgtc ttcagtcaca gcccccaaga tgattactga ctttttcagc
+      241 cagcgcaaag tcatctcttt caagggctgc cttgttcaga tatttctcct tcacttcttt
+      301 ggtgggagtg agatggtgat cctcatagcc atgggctttg acagatatat agcaatatgc
+      361 aagcccctac actacactac aattatgtgt ggcaacgcat gtgtcggcat tatggctgtc
+      421 acatggggaa ttggctttct ccattcggtg agccagttgg cgtttgccgt gcacttactc
+      481 ttctgtggtc ccaatgaggt cgatagtttt tattgtgacc ttcctagggt aatcaaactt
+      541 gcctgtacag atacctacag gctagatatt atggtcattg ctaacagtgg tgtgctcact
+      601 gtgtgttctt ttgttcttct aatcatctca tacactatca tcctaatgac catccagcat
+      661 cgccctttag ataagtcgtc caaagctctg tccactttga ctgctcacat tacagtagtt
+      721 cttttgttct ttggaccatg tgtctttatt tatgcctggc cattccccat caagtcatta
+      781 gataaattcc ttgctgtatt ttattctgtg atcacccctc tcttgaaccc aattatatac
+      841 acactgagga acaaagacat gaagacggca ataagacagc tgagaaaatg ggatgcacat
+      901 tctagtgtaa agttttag
+//
+
